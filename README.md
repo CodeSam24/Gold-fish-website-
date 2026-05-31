@@ -1,5 +1,5 @@
 # Gold-fish-website-
-A simple html website I made about goldfish with facts and things I’ve done 
+A simple html website that I made about goldfish as a practice project for HTML.
 
 
 
